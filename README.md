@@ -24,7 +24,7 @@ The repository contains SageMath notebooks for arithmetic computations and Pytho
   One notebook per experiment from the paper, covering:
   - Verification of **Heath-Brown heuristics** (files: HB2Theorem1 moments.ipynb, HB2Theorem2.ipynb)
   - Verification of **Poonen–Rains heuristics** (poonen_rains.ipynb)
-  - Verification of **Delaunay heuristics** (delaunay..ipynb)
+  - Verification of **Delaunay heuristics** (delaunay.ipynb)
   - **Goldfeld’s conjecture** verification (goldfeld_conjecture_new.ipynb, goldfeld_conjcture_via_sampling.ipynb)
   - **Birch and Swinnerton-Dyer (BSD)** verification (bsd_verification_smith.ipynb)
   - **Averages of Frobenius traces** (frobenius_traces_CN_curves.ipynb)
